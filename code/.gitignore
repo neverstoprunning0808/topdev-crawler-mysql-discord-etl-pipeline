@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+
+draft_crawl_data.ipynb
+draft_crawl.ipynb
+analysis.ipynb

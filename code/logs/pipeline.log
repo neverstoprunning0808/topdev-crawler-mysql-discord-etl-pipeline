@@ -1,0 +1,91 @@
+2026-10-02 01:53:17,403 | INFO | Pipeline started!
+2026-10-02 01:53:17,403 | INFO | Extracting....
+2026-10-02 01:54:07,582 | INFO | Extract completed: 30 rows successfully!
+2026-10-02 01:54:07,582 | INFO | Transforming....
+2026-10-02 01:54:07,586 | INFO | Transform completed: 30 rows successfully!
+2026-10-02 01:54:07,586 | INFO | Connecting to database....
+2026-10-02 01:54:07,653 | INFO | Database connected successfully!
+2026-10-02 01:54:07,653 | INFO | Loading....
+2026-10-02 01:54:07,737 | INFO | Load to DBMS completed: 30 rows successfully!
+2026-10-02 01:54:07,737 | INFO | Sending jobs to Discord
+2026-10-02 01:54:08,154 | INFO | Discord notification completed
+2026-10-02 01:54:08,155 | INFO | Pipeline completed successfully
+2026-10-02 01:57:28,996 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-10-02 01:57:28,996 | INFO | Added job "run_pipeline" to job store "default"
+2026-10-02 01:57:28,996 | INFO | Scheduler started
+2026-10-02 02:01:29,007 | INFO | Running job "run_pipeline (trigger: interval[0:04:00], next run at: 2026-10-02 02:01:28 AEST)" (scheduled at 2026-10-02 02:01:28.996823+10:00)
+2026-10-02 02:01:29,008 | INFO | Pipeline started!
+2026-10-02 02:01:29,008 | INFO | Extracting....
+2026-10-02 02:02:19,845 | INFO | Extract completed: 30 rows successfully!
+2026-10-02 02:02:19,846 | INFO | Transforming....
+2026-10-02 02:02:19,851 | INFO | Transform completed: 30 rows successfully!
+2026-10-02 02:02:19,851 | INFO | Connecting to database....
+2026-10-02 02:02:19,939 | INFO | Database connected successfully!
+2026-10-02 02:02:19,939 | INFO | Loading....
+2026-10-02 02:02:20,011 | INFO | Load to DBMS completed: 0 rows successfully!
+2026-10-02 02:02:20,011 | INFO | Sending jobs to Discord
+2026-10-02 02:02:20,011 | INFO | Discord notification completed
+2026-10-02 02:02:20,011 | INFO | Pipeline completed successfully
+2026-10-02 02:02:20,011 | INFO | Job "run_pipeline (trigger: interval[0:04:00], next run at: 2026-10-02 02:05:28 AEST)" executed successfully
+2026-10-02 02:05:36,349 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-10-02 02:05:36,350 | INFO | Added job "run_pipeline" to job store "default"
+2026-10-02 02:05:36,350 | INFO | Scheduler started
+2026-10-02 02:08:36,357 | INFO | Running job "run_pipeline (trigger: interval[0:03:00], next run at: 2026-10-02 02:08:36 AEST)" (scheduled at 2026-10-02 02:08:36.349390+10:00)
+2026-10-02 02:08:36,358 | INFO | Pipeline started!
+2026-10-02 02:08:36,358 | INFO | Extracting....
+2026-10-02 02:10:12,706 | INFO | Extract completed: 60 rows successfully!
+2026-10-02 02:10:12,706 | INFO | Transforming....
+2026-10-02 02:10:12,713 | INFO | Transform completed: 60 rows successfully!
+2026-10-02 02:10:12,713 | INFO | Connecting to database....
+2026-10-02 02:10:12,794 | INFO | Database connected successfully!
+2026-10-02 02:10:12,794 | INFO | Loading....
+2026-10-02 02:10:12,838 | INFO | Load to DBMS completed: 30 rows successfully!
+2026-10-02 02:10:12,838 | INFO | Sending jobs to Discord
+2026-10-02 02:10:12,839 | INFO | Discord notification completed
+2026-10-02 02:10:12,839 | INFO | Pipeline completed successfully
+2026-10-02 02:10:12,839 | INFO | Job "run_pipeline (trigger: interval[0:03:00], next run at: 2026-10-02 02:11:36 AEST)" executed successfully
+2026-10-02 02:11:36,356 | INFO | Running job "run_pipeline (trigger: interval[0:03:00], next run at: 2026-10-02 02:14:36 AEST)" (scheduled at 2026-10-02 02:11:36.349390+10:00)
+2026-10-02 02:11:36,357 | INFO | Pipeline started!
+2026-10-02 02:11:36,357 | INFO | Extracting....
+2026-10-02 02:13:15,601 | INFO | Extract completed: 60 rows successfully!
+2026-10-02 02:13:15,601 | INFO | Transforming....
+2026-10-02 02:13:15,608 | INFO | Transform completed: 60 rows successfully!
+2026-10-02 02:13:15,608 | INFO | Connecting to database....
+2026-10-02 02:13:15,669 | INFO | Database connected successfully!
+2026-10-02 02:13:15,669 | INFO | Loading....
+2026-10-02 02:13:15,724 | INFO | Load to DBMS completed: 0 rows successfully!
+2026-10-02 02:13:15,724 | INFO | Sending jobs to Discord
+2026-10-02 02:13:15,725 | INFO | Discord notification completed
+2026-10-02 02:13:15,725 | INFO | Pipeline completed successfully
+2026-10-02 02:13:15,725 | INFO | Job "run_pipeline (trigger: interval[0:03:00], next run at: 2026-10-02 02:14:36 AEST)" executed successfully
+2026-10-02 02:14:56,978 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-10-02 02:14:56,978 | INFO | Added job "run_pipeline" to job store "default"
+2026-10-02 02:14:56,979 | INFO | Scheduler started
+2026-10-02 02:17:56,987 | INFO | Running job "run_pipeline (trigger: interval[0:03:00], next run at: 2026-10-02 02:17:56 AEST)" (scheduled at 2026-10-02 02:17:56.976817+10:00)
+2026-10-02 02:17:56,987 | INFO | Pipeline started!
+2026-10-02 02:17:56,987 | INFO | Extracting....
+2026-10-02 02:19:35,175 | INFO | Extract completed: 60 rows successfully!
+2026-10-02 02:19:35,175 | INFO | Transforming....
+2026-10-02 02:19:35,181 | INFO | Transform completed: 60 rows successfully!
+2026-10-02 02:19:35,181 | INFO | Connecting to database....
+2026-10-02 02:19:35,285 | INFO | Database connected successfully!
+2026-10-02 02:19:35,285 | INFO | Loading....
+2026-10-02 02:19:35,399 | INFO | Load to DBMS completed: 60 rows successfully!
+2026-10-02 02:19:35,399 | INFO | Sending jobs to Discord
+2026-10-02 02:19:39,136 | INFO | Discord notification completed
+2026-10-02 02:19:39,137 | INFO | Pipeline completed successfully
+2026-10-02 02:19:39,137 | INFO | Job "run_pipeline (trigger: interval[0:03:00], next run at: 2026-10-02 02:20:56 AEST)" executed successfully
+2026-10-02 02:20:56,980 | INFO | Running job "run_pipeline (trigger: interval[0:03:00], next run at: 2026-10-02 02:23:56 AEST)" (scheduled at 2026-10-02 02:20:56.976817+10:00)
+2026-10-02 02:20:56,980 | INFO | Pipeline started!
+2026-10-02 02:20:56,980 | INFO | Extracting....
+2026-10-02 02:22:37,048 | INFO | Extract completed: 60 rows successfully!
+2026-10-02 02:22:37,048 | INFO | Transforming....
+2026-10-02 02:22:37,054 | INFO | Transform completed: 60 rows successfully!
+2026-10-02 02:22:37,054 | INFO | Connecting to database....
+2026-10-02 02:22:37,123 | INFO | Database connected successfully!
+2026-10-02 02:22:37,123 | INFO | Loading....
+2026-10-02 02:22:37,187 | INFO | Load to DBMS completed: 0 rows successfully!
+2026-10-02 02:22:37,187 | INFO | Sending jobs to Discord
+2026-10-02 02:22:37,187 | INFO | Discord notification completed
+2026-10-02 02:22:37,187 | INFO | Pipeline completed successfully
+2026-10-02 02:22:37,188 | INFO | Job "run_pipeline (trigger: interval[0:03:00], next run at: 2026-10-02 02:23:56 AEST)" executed successfully
